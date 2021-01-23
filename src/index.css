@@ -11,7 +11,7 @@ body {
 .app {
   background-image: url('./assests/cold-bg.jpg');
   background-size: cover;
-  transition: 0.4s ease-out;
+  transition: 0.4s ease;
 }
 
 .app.warm {
